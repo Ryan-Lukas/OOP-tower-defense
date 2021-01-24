@@ -5,7 +5,7 @@ Ryan Lukas
 
 CS 1410 - Object-Oriented Programming - Spring 2017
 
-*Python 3.6.0*
+*Java SE 8*
 
 Background
 ------------
